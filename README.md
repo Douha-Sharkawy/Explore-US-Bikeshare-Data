@@ -10,7 +10,7 @@
 6. User Type (Subscriber or Customer)
 
 ## The Chicago and New York City files also have the following two columns: Gender & Birth Year
-## For computing a variety of descriptive statistics,  I wrote codes in python lamguage to provide the following information:
+## For computing a variety of descriptive statistics,  I wrote codes in python language to provide the following information:
 
 #1 Popular times of travel (i.e., occurs most often in the start time)
 most common month
